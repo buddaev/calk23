@@ -13,3 +13,4 @@ with open(file_path, mode='w', newline='', encoding='utf-8') as file:
             "Description": "",
             "Location": "",
             "Private": "True"
+ader() for event in events: writer.writerow({ "Subject": event["Subject"], "Start Date": event["Start Date"], "Start Time": "", "End Date": event["En
